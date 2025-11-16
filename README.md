@@ -33,8 +33,15 @@
 
 ---
 
-## 🔗 Contatos
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Denner-Dev&show_icons=true&theme=radical" alt="Denner Fernandes GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denner-Dev&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
+---
+
+## 🔗 Contatos
 <p>
 <a href="mailto:denner.fernandes01@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -46,3 +53,7 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*
